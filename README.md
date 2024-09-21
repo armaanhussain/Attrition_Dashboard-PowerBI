@@ -33,9 +33,8 @@ Created an Interactive Dashboard which analyses and identifies the key factors t
 
 # Conclusion and Suggestion
 
-1) The maximum attrition is taking place among employees in the age group of 25-34 years .
-   These are the segment of employees who are most likely to switch jobs are those with experience between 2-4 years.
-
+1) The maximum attrition is taking place among employees in the age group of 25-34 years . These are the segment of employees who are most likely to
+   switch jobs are those with experience between 2-4 years.
 Ways to reduce this type of attrition:-
      * Set realistic expectations
      * Offer support and show appreciation
@@ -43,13 +42,11 @@ Ways to reduce this type of attrition:-
      * Allow for a more flexible work schedule.
 
 2) In education field  Major attrition are shown in Life sciences , Marketing and Human resource.
-
 Ways to reduce this type of attrition:-
      * Making sure that the right people are in the right roles at the right team.
 
-3) Attrition among Male are more as compared to Females.
-   Lack of gender equality in the workplace has become a sore spot for organisation as it can harm the company by increasing employee attrition.
-
+3) Attrition among Male are more as compared to Females. Lack of gender equality in the workplace has become a sore spot for organisation as it can harm
+   the company by increasing employee attrition.
 Ways to reduce this type of attrition:-
      * Bridging the gender pay gap.
      * Increase child care and paid time off.
