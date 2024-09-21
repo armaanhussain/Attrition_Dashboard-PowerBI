@@ -2,6 +2,14 @@
 Created an Interactive Dashboard which analyses and identifies the key factors to reduce attrition and improve the hiring process
 
 # Insights 
+.Department wise attrition R&D > Sales >HR.
+.Education wise, Life Science is the biggest chunk.
+.Major attrition are in age group 25-34.
+.Major number of employees lie in age group 27 – 44.
+.Attrition of male > Attrition of female 
+.Out 1470 employees 569(~39%) employees are not satisfied by there job which is worrisome (taking job satisfaction 1 and 2 into consideration).
+
+
 
 
 # Tech used 
