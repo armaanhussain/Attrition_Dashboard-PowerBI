@@ -50,7 +50,7 @@ Ways to reduce attrition:-
 Ways to reduce attrition:-
      * Bridging the gender pay gap.
      * Increase child care and paid time off.
-     * Offer bias training for hiring management![image](https://github.com/user-attachments/assets/cb7d9306-a327-4737-86f3-319b4ea91720)
+     * Offer bias training for hiring management.
 
 
 
