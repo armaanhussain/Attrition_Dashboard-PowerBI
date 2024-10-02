@@ -7,18 +7,19 @@ The dataset, sourced from Kaggle, IBM HR Analytics Employee Attrition & Performa
 # Steps Undertaken
 
 1.Setting Objectives: 
-   *Clarified scope and objectives, aiming to gain insights into employee attrition patterns.
+   * Clarified scope and objectives, aiming to gain insights into employee attrition patterns.
 
 2.Data Collection and Exploration: 
-   *Gathered HR attrition dataset from Kaggle.
-   *Analyzed the dataset to gain insights into employee demographics, job attributes, performance ratings, and attrition status. This involved visualizing distributions, correlations, and trends using descriptive     statistics and data visualization techniques.
+   * Gathered HR attrition dataset from Kaggle.
+   * Analyzed the dataset to gain insights into employee demographics, job attributes, performance ratings, and attrition status. This involved visualizing distributions, correlations, and trends using 
+     descriptive statistics and data visualization techniques.
 
 3.Metric Development:
-*Utilized Power BI Desktop and Data Analysis Expressions (DAX) to create key performance indicators (KPIs) such as attrition rate, department-wise turnover, etc.
+   * Utilized Power BI Desktop and Data Analysis Expressions (DAX) to create key performance indicators (KPIs) such as attrition rate, department-wise turnover, etc.
 
 4.Dashboard Creation:
-*Developed an interactive dashboard in Power BI Desktop to visualize the analysis results. The dashboard includes various visualizations, filters, and slicers to facilitate the exploration and understanding of employee attrition patterns.
-
+   * Developed an interactive dashboard in Power BI Desktop to visualize the analysis results. The dashboard includes various visualizations, filters, and slicers to facilitate the exploration and understanding 
+     of employee attrition patterns.
 
 
 
