@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/11e98773-9060-4fc3-b7aa-5c0225ad1e2d)![image](https://github.com/user-attachments/assets/afda7c3a-0338-4310-b252-0c4c5d407b9a)# Attrition Analystics Dashboard
+# Attrition Analystics Dashboard
 Created an Interactive Dashboard which analyses and identifies the key factors to reduce attrition and improve the hiring process
 
 # Dataset
