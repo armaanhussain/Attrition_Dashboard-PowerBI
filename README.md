@@ -1,8 +1,6 @@
 # Attrition Analystics Dashboard
 Created an Interactive Dashboard which analyses and identifies the key factors to reduce attrition and improve the hiring process
 
-# Dataset
-The dataset, sourced from Kaggle, IBM HR Analytics Employee Attrition & Performance, includes details such as employee demographics, job attributes, performance ratings, and attrition status, facilitating analysis and understanding of turnover factors.
 
 # Steps Undertaken
 
