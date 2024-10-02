@@ -1,9 +1,32 @@
-# Attrition Analystics Dashboard
+![image](https://github.com/user-attachments/assets/11e98773-9060-4fc3-b7aa-5c0225ad1e2d)![image](https://github.com/user-attachments/assets/afda7c3a-0338-4310-b252-0c4c5d407b9a)# Attrition Analystics Dashboard
 Created an Interactive Dashboard which analyses and identifies the key factors to reduce attrition and improve the hiring process
+
+# Dataset
+The dataset, sourced from Kaggle, IBM HR Analytics Employee Attrition & Performance, includes details such as employee demographics, job attributes, performance ratings, and attrition status, facilitating analysis and understanding of turnover factors.
+
+# Steps Undertaken
+
+1.Setting Objectives: 
+   *Clarified scope and objectives, aiming to gain insights into employee attrition patterns.
+
+2.Data Collection and Exploration: 
+   *Gathered HR attrition dataset from Kaggle.
+   *Analyzed the dataset to gain insights into employee demographics, job attributes, performance ratings, and attrition status. This involved visualizing distributions, correlations, and trends using descriptive     statistics and data visualization techniques.
+
+3.Metric Development:
+*Utilized Power BI Desktop and Data Analysis Expressions (DAX) to create key performance indicators (KPIs) such as attrition rate, department-wise turnover, etc.
+
+4.Dashboard Creation:
+*Developed an interactive dashboard in Power BI Desktop to visualize the analysis results. The dashboard includes various visualizations, filters, and slicers to facilitate the exploration and understanding of employee attrition patterns.
+
+
+
+
 
 # Tech used 
 
 ![image](https://github.com/user-attachments/assets/fb569ce3-ea19-4455-9bf4-1eff864fba39)              ![image](https://github.com/user-attachments/assets/fabf5e01-b3cd-466d-b5dd-8a779d6d46e1)
+
    
 
 # Insights 
