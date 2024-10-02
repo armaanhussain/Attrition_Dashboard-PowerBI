@@ -2,9 +2,9 @@
 Created an Interactive Dashboard which analyses and identifies the key factors to reduce attrition and improve the hiring process
 
 # Tech used 
-    ![image](https://github.com/user-attachments/assets/fabf5e01-b3cd-466d-b5dd-8a779d6d46e1)
-   
 
+![image](https://github.com/user-attachments/assets/fb569ce3-ea19-4455-9bf4-1eff864fba39)              ![image](https://github.com/user-attachments/assets/fabf5e01-b3cd-466d-b5dd-8a779d6d46e1)
+   
 
 # Insights 
 * Department wise attrition R&D > Sales >HR.
