@@ -1,5 +1,9 @@
 # Attrition Analystics Dashboard
-Created an Interactive Dashboard which analyses and identifies the key factors to reduce attrition and improve the hiring process
+
+![image](https://github.com/user-attachments/assets/e0f5d393-db14-416c-80ba-a118d8b7fc5c)
+
+
+Created an Interactive Dashboard which analyses and identifies the key factors to reduce attrition and improve the hiring process.
 
 
 # Steps Undertaken
